@@ -10,10 +10,6 @@ Even you can select in which post-type or taxonomy you want to add this feature.
 - This plugin is work for all built-in as well as all custom post-types or taxonomies.
 - Save tie without creating extra meta field or custom field. You can also display those very easily.
 
-## Installation & Settings
-
-Installation & settings of this plugin is very easy.
-
 ## Installation
 
 ```sh
