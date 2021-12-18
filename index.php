@@ -1,7 +1,7 @@
 <?php
 
 /**
-* Plugin Name: TXM Basic Meta Fields
+* Plugin Name: Custom post type & taxonomy fields
 * Plugin URI: https://github.com/haqueemon/custom-post-type-taxonomy-field
 * Description: Enjoy basic meta-fields like(Image, Is feature?, custom field) for Default and custom taxonomies with deafault and custom post types.
 * Version: 1.0
