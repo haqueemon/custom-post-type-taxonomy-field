@@ -2,17 +2,15 @@
 
 /**
 * Plugin Name: TXM Basic Meta Fields
-* Plugin URI: https://github.com/haqueemon
-* Description: Basic meta fields for Default and custom taxonomies with deafault and custom post types 
+* Plugin URI: https://github.com/haqueemon/custom-post-type-taxonomy-field
+* Description: Enjoy basic meta-fields like(Image, Is feature?, custom field) for Default and custom taxonomies with deafault and custom post types.
 * Version: 1.0
-* Author: Emon
-* Author URI: https://github.com/haqueemon
-* License:           GPL v2 or later
+* Author: Enamul Haque Emon
+* Author URI: https://www.fiverr.com/emon7_7_7
+* License:
 * Text Domain:       txm-meta
 * Domain Path:       /languages
-
 */
-
 
 /**
  * Txm_main main class
